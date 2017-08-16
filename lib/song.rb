@@ -60,5 +60,4 @@ class Song
 
 end
 
-
-
+submit = true
